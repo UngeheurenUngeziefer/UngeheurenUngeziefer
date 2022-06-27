@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yauheni Leaniuk 
 - 👾 This is my GitHub account
-- 🐍 I working with Python and TSQL
+- 🐍 I working as Data Engineer
 - ⬆️ I’m currently learning Azure, PowerBI, PySpark
 - ✉️ I'm available at [Telegram](https://t.me/yauhenileaniuk), and [LinkedIn](https://www.linkedin.com/in/yauheni-leaniuk/)
 
